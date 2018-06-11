@@ -10,4 +10,4 @@ This program should be executed from the command line, in the following manner:
 
 `node download_avatars.js jquery jquery`
 
-... (whatever else you'd like to include)
+The first input is the owner username, and the second one is the repo name.
